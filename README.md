@@ -14,6 +14,6 @@ APIs: REST, SOAP
 ⚽ Hincha de Colo-Colo y fanático de Ferrari en la F1.
 
 📫 ¿Quieres conectar?
-LinkedIn: Tu Perfil
-GitHub: Tu Usuario
-Portafolio: Tu Web
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaime%20Vergara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jaimevergara)
+- GitHub: Tu Usuario
+- Portafolio: Tu Web
