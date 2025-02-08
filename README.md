@@ -14,7 +14,10 @@ APIs: REST, SOAP
 ⚽ Hincha de Colo-Colo y fanático de Ferrari en la F1.
 
 📫 ¿Quieres conectar?
-<br>
+</br>
+[![Twitter](https://img.shields.io/badge/Twitter-@j41m3vergara-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/j41m3vergara)
+[![Instagram](https://img.shields.io/badge/Instagram-@j41m3vergara-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/j41m3vergara/)
+</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaime%20Vergara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jaimevergarap)
-- GitHub: Tu Usuario
-- Portafolio: Tu Web
+[![Web](https://img.shields.io/badge/Web-JaimeVergara.cl-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jaimevergara.github.io/mi-web)
+
