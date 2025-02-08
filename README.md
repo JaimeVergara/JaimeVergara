@@ -2,8 +2,8 @@
 ### 🚀 Ingeniero en Informática | Desarrollador Full Stack  
 
 💻 Apasionado por el desarrollo de software, me especializo en crear aplicaciones **robustas y escalables** con tecnologías como:  
-- **Frontend:** VueJS, JavaScript  
-- **Backend:** Laravel, Spring Boot, .NET *(aprendiendo)*  
+- **Frontend:** VueJS, JavaScript, React 
+- **Backend:** Laravel, PHP,  
 - **Bases de Datos:** Oracle SQL, PostgreSQL  
 - **APIs:** REST, SOAP  
 
