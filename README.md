@@ -10,13 +10,13 @@
 </br>
 📊 También tengo interés en el análisis de datos y siempre estoy explorando nuevas herramientas para seguir mejorando mis habilidades.
 </br>
-### 🔥 Un poco más sobre mí:
+### Un poco más sobre mí:
 </br>
 🚴‍♂️ Me gusta andar en bici, jugar videojuegos, disfrutar una buena cerveza y ver fútbol, básquetbol y Fórmula 1.
 </br>
 ⚽ Hincha de Colo-Colo y fanático de Ferrari en la F1.
 </br>
-### 📫 ¿Quieres conectar?
+### ¿Quieres conectar?
 </br>
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@j41m3vergara-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/j41m3vergara)
