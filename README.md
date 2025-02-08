@@ -2,18 +2,22 @@
 ### Ingeniero en Informática | Desarrollador Full Stack
 
 💻 Apasionado por el desarrollo de software, me especializo en crear aplicaciones robustas y escalables con tecnologías como:
-
-Frontend: VueJS, JavaScript
-Backend: Laravel, Spring Boot, .NET (aprendiendo)
-Bases de Datos: Oracle SQL, PostgreSQL
-APIs: REST, SOAP
+</br>
+> Frontend: VueJS, JavaScript
+> Backend: Laravel, Spring Boot, .NET (aprendiendo)
+> Bases de Datos: Oracle SQL, PostgreSQL
+> APIs: REST, SOAP
+</br>
 📊 También tengo interés en el análisis de datos y siempre estoy explorando nuevas herramientas para seguir mejorando mis habilidades.
 
-🔥 Un poco más sobre mí
+🔥 Un poco más sobre mí:
+</br>
 🚴‍♂️ Me gusta andar en bici, jugar videojuegos, disfrutar una buena cerveza y ver fútbol, básquetbol y Fórmula 1.
+</br>
 ⚽ Hincha de Colo-Colo y fanático de Ferrari en la F1.
 
 📫 ¿Quieres conectar?
+</br>
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@j41m3vergara-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/j41m3vergara)
 [![Instagram](https://img.shields.io/badge/Instagram-@j41m3vergara-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/j41m3vergara/)
